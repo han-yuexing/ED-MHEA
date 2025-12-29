@@ -1,5 +1,7 @@
 # Deep Learning-Based Framework for Efficient Design of Multicomponent High Hardness High Entropy Alloys
 
+This is the official repo of paper [Deep Learning-Based Framework for Efficient Design of Multicomponent High Hardness High Entropy Alloys](https://doi.org/10.1021/acsami.4c23010), accepted to "ACS Applied Materials & Interfaces".
+
 ## 1. 项目概述
 
 本代码是一个用于材料信息学研究，主要包含两大核心功能：
